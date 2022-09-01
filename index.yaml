@@ -40,6 +40,18 @@ entries:
   provisionme:
   - apiVersion: v1
     appVersion: 2.4.0
+    created: "2022-09-01T01:04:58.999002811Z"
+    description: local provisioner chart
+    digest: a54a74c65bb7216e5a82d34c9303050785472bf32720a7f5e9dac4b9c3495cb6
+    keywords:
+    - storage
+    - local
+    name: provisionme
+    urls:
+    - https://github.com/aureliusbtc/helm/releases/download/provisionme-2.7.2/provisionme-2.7.2.tgz
+    version: 2.7.2
+  - apiVersion: v1
+    appVersion: 2.4.0
     created: "2022-09-01T01:01:52.422867908Z"
     description: local provisioner chart
     digest: 2c176fd5bc7c2a6ca07edb2c659384a1c00b05509f52f63ae82d5ccbcf56b1f3
@@ -50,4 +62,4 @@ entries:
     urls:
     - https://github.com/aureliusbtc/helm/releases/download/provisionme-2.7.1/provisionme-2.7.1.tgz
     version: 2.7.1
-generated: "2022-09-01T01:01:52.422892608Z"
+generated: "2022-09-01T01:04:58.999027811Z"
