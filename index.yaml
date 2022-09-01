@@ -3,6 +3,18 @@ entries:
   provisioner:
   - apiVersion: v1
     appVersion: 2.4.0
+    created: "2022-09-01T00:48:26.408410886Z"
+    description: local provisioner chart
+    digest: d2a2eb1199aaeffb61044653ff71162607433317b0e7c4fd450e9b9585843094
+    keywords:
+    - storage
+    - local
+    name: provisioner
+    urls:
+    - https://github.com/aureliusbtc/helm/releases/download/provisioner-2.6.1-alpha.4/provisioner-2.6.1-alpha.4.tgz
+    version: 2.6.1-alpha.4
+  - apiVersion: v1
+    appVersion: 2.4.0
     created: "2022-09-01T00:40:40.709398001Z"
     description: local provisioner chart
     digest: 7d7abbc3e1fdb5f77c3dc328a76e3be6b18aef0f1a88b74ab79dfe8efcebb852
@@ -25,4 +37,4 @@ entries:
     urls:
     - https://github.com/aureliusbtc/helm/releases/download/provisioner-2.6.1-alpha.2/provisioner-2.6.1-alpha.2.tgz
     version: 2.6.1-alpha.2
-generated: "2022-09-01T00:40:40.709488401Z"
+generated: "2022-09-01T00:48:26.408428586Z"
