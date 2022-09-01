@@ -37,4 +37,17 @@ entries:
     urls:
     - https://github.com/aureliusbtc/helm/releases/download/provisioner-2.6.1-alpha.2/provisioner-2.6.1-alpha.2.tgz
     version: 2.6.1-alpha.2
-generated: "2022-09-01T00:48:26.408428586Z"
+  provisionme:
+  - apiVersion: v1
+    appVersion: 2.4.0
+    created: "2022-09-01T01:01:52.422867908Z"
+    description: local provisioner chart
+    digest: 2c176fd5bc7c2a6ca07edb2c659384a1c00b05509f52f63ae82d5ccbcf56b1f3
+    keywords:
+    - storage
+    - local
+    name: provisionme
+    urls:
+    - https://github.com/aureliusbtc/helm/releases/download/provisionme-2.7.1/provisionme-2.7.1.tgz
+    version: 2.7.1
+generated: "2022-09-01T01:01:52.422892608Z"
